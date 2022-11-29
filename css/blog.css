@@ -1,0 +1,50 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background: white;
+  font-family: roboto condensed;
+}
+#text{
+  width: 90%;
+  margin: 0px auto;
+}
+header h1{
+background: #FAC871;
+height: 82px;
+width: 100%;
+text-align: center;
+line-height: 75px;
+color: width;
+border-bottom: 10px solid white;
+font-size: 34px;
+}
+header p{
+  background: #E5E9CA;
+  height: 110px;
+  border-bottom: 5px solid white;
+  margin: 25px;
+  padding: 10px;
+}
+header img{
+  width: 101%;
+  height: 800px;
+}
+header h4{
+  background: #FAC871;
+  height: 82px;
+  width: 100%;
+  text-align: center;
+  line-height: 75px;
+  color: width;
+  border-bottom: 10px solid white;
+  font-size: 34px;
+}
+header p{
+  background: #E5E9CA;
+  height: 110px;
+  border-bottom: 5px solid white;
+  margin: 25px;
+  padding: 10px;
+}
